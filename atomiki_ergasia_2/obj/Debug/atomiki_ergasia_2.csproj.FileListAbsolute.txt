@@ -1,0 +1,13 @@
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\bin\Debug\atomiki_ergasia_2.exe.config
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\bin\Debug\atomiki_ergasia_2.exe
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\bin\Debug\atomiki_ergasia_2.pdb
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.csprojAssemblyReference.cache
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.Form1.resources
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.Properties.Resources.resources
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.exe
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.pdb
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.Form2.resources
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.Form3.resources
+C:\Users\nikos\Desktop\atomiki_ergasia_2\atomiki_ergasia_2\obj\Debug\atomiki_ergasia_2.Form4.resources
